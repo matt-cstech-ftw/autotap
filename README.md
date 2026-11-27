@@ -1,4 +1,4 @@
-# autotap
+# AutoTap
 a free python tapper for tiktok lives (or whatever you want to use it for)
 
 ## Controls & Hotkeys
